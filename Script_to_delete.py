@@ -30,7 +30,7 @@ last_df['Ship_Date'] = pd.to_datetime(last_df['Ship_Date'], dayfirst=True)
 
 print(last_df)
 
-last_df.to_csv("Clea_Data.csv",index=False)
+last_df.to_csv("Clean_Data.csv",index=False)
 
 
 column_dtypes = last_df.dtypes
