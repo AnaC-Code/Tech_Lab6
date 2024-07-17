@@ -32,7 +32,7 @@ print(last_df)
 
 last_df.to_csv("Clean_Data.csv",index=False)
 
-
+print("Test")
 column_dtypes = last_df.dtypes
 print(f'The data types of each column are:\n{column_dtypes}')
 
