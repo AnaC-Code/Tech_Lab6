@@ -56,4 +56,3 @@ print(f'The data types of each column are:\n{column_dtypes}')
 
 #Records : 11 records will be deleted because it contains Nan values
 
-#new line
