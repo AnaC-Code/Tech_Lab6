@@ -24,4 +24,12 @@ api , openstreet api, go pie he likes , group stores into states and create heat
 ### 2024.08.04.
 #### 14:30 
 *The group decided to try different modeling and see if we can get a good prediction from at least one. if not we have to work within the data set to achieve a better set up
-
+### 2024.08.11.
+#### 10:00 
+*Meeting to compare the models results and to check if some of them are not working what is wrong
+### 2024.08.17.
+#### 10:00 
+*Second Hackaton, we decided to work on ARIMA Analysis and to try to Enrich the Dataset and run our models again with it
+### 2024.08.31.
+#### 17:00 
+*Meeting to discuss the division of tasks for the final submission
