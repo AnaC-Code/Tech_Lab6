@@ -30,17 +30,17 @@ Understanding sales dynamics is crucial for optimizing inventory management, res
 These insights enable data-driven decision-making, leading to improved operational efficiency, customer satisfaction, and overall business performance.
 
 ## Model Evaluation
-After evaluating the performance of our predictive models, the *Random Forest* model stands out as the top performer for predicting Superstore product sales. 
+After evaluating the performance of our predictive models, the *ARIMA* model stands out as the top performer for predicting Superstore product sales. 
 
-- *Root Mean Square Error (RMSE)*: ~274,850 (low, indicating close predictions).
-- *Mean Absolute Error (MAE)*: 161.02 (lowest, demonstrating superior accuracy).
-- *R-squared*: 0.30 (indicating that around 30% of the variance in sales data is captured by the model).
+- *Mean Square Error (RMSE)*: ~ 243407.191
+- *Mean Absolute Error (MAE)*: 431.358
+- *R-squared*:  0.605 (indicating that around 30% of the variance in sales data is captured by the model).
 
 These results highlight the Random Forest model's suitability for precise sales prediction, offering valuable insights for optimizing inventory management and decision-making processes.
 
 ## Contributors
 
-- *Ana Ccarita*
+- *Ana*
 - *Ivana*
 - *Can*
 - *Ricardo Jordan*
