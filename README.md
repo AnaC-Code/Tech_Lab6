@@ -34,7 +34,7 @@ After evaluating the performance of our predictive models, the *ARIMA* model sta
 
 - *Mean Square Error (RMSE)*: ~ 243407.191
 - *Mean Absolute Error (MAE)*: 431.358
-- *R-squared*:  0.605 (indicating that around 30% of the variance in sales data is captured by the model).
+- *R-squared*:  0.605 (indicating that around 60% of the variance in sales data is captured by the model).
 
 These results highlight the Random Forest model's suitability for precise sales prediction, offering valuable insights for optimizing inventory management and decision-making processes.
 
