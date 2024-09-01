@@ -37,10 +37,3 @@ After evaluating the performance of our predictive models, the *ARIMA* model sta
 - *R-squared*:  0.605 (indicating that around 60% of the variance in sales data is captured by the model).
 
 These results highlight the Random Forest model's suitability for precise sales prediction, offering valuable insights for optimizing inventory management and decision-making processes.
-
-## Contributors
-
-- *Ana*
-- *Ivana*
-- *Can*
-- *Ricardo Jordan*
